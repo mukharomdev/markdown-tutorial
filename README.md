@@ -4,7 +4,7 @@ This repo based on the rules of markdown adapted by [github](https://docs.github
 
 # Resources
   
-##**[markdownguide ref :](https://www.markdownguide.org/cheat-sheet/)**
+## **[markdownguide ref :](https://www.markdownguide.org/cheat-sheet/)**
 
 | menu        | link        |
 | ----------- | ----------- |
